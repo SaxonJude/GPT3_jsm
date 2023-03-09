@@ -1,10 +1,9 @@
-import React from 'react'
+import React from 'react';
 
 // Import components
 import { Footer, Blog, Possibility, Features, WhatGPT3, Header } from './containers';
 import { CTA, Brand, Navbar } from './components';
 
-// Import stylesheet
 import './App.css';
 
 const App = () => {
